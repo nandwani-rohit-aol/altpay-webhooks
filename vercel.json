@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://uat-caps.artofliving.org/webhooks/34"
+      "destination": "https://test-caps.artofliving.org/webhooks/8"
     }
   ]
 }
